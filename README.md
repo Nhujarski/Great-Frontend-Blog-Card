@@ -12,7 +12,7 @@ In this challenge, I developed a blog card featuring editorial content, includin
 
 ### Deployed using Vercel
 
-https://great-frontend-testimonial-card-two.vercel.app/
+https://great-frontend-blog-card-eight.vercel.app/
 
 ## Project Image
 
